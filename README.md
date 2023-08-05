@@ -1,6 +1,7 @@
 # SP2024-IS324 Social Network Analysis
 School of Information Science, University of Illinois at Urbana-Champaign \
-Jaihyun Park 
+Jaihyun Park \
+Office Hours: TBD \
 
 This GitHub repository contains contents for Spring 2024 IS 324 Social Network Analysis. 
 
@@ -24,4 +25,30 @@ Week 2: Anatomy of Network Analysis
 - Introduction to libraries for network analysis
 - Readings: TBD
 
-Week 3: 
+HW 1 Due: TBD
+
+Week 3: Social Media Network Analysis
+- Affordances of social media data for network analysis: mention, retweet, and hashtag
+- Discussion of transformation to a network structure of social media data
+- Discussion of network measures of social media data
+- Practice: Twitter network analysis (mention, retweet, and hashtag)
+- Practice: Regular Expression
+- Practice: Transformation of social media data to a network structure
+- Readings: TBD
+
+Week 4: Email Network Analysis
+- Affordances of email data for network analysis: sender, receiver, and cc
+- Discussion of transformation to a network structure of email data
+- Discussion of network measures of email data
+- Practice: Email network analysis (sender, receiver, and cc)
+- Practice: Transformation of email data to a network structure
+- Readings: TBD
+
+Week 5: Text Reprint Network Analysis from news articles 
+- Affordances of text data for network analysis: co-occurrence of words
+- Discussion of transformation to a network structure of text data
+- Discussion of bias in digitized text data
+- Practice: N-gram analysis for text data
+
+Week 6: 
+
