@@ -1,8 +1,6 @@
 # SP2024-IS324 Social Network Analysis
-Spring 2024 IS 324 Social Network Analysis 
-
-School of Information Science, University of Illinois at Urbana-Champaign 
-
+Spring 2024 IS 324 Social Network Analysis \
+School of Information Science, University of Illinois at Urbana-Champaign \
 Jaihyun Park 
 
 This GitHub repository contains contents for Spring 2024 IS 324 Social Network Analysis. 
