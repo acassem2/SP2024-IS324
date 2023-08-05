@@ -3,7 +3,7 @@ School of Information Science, University of Illinois at Urbana-Champaign \
 Jaihyun Park 
 Office Hours: TBD 
 
-This GitHub repository contains contents (python scripts and data for the lab session) for Spring 2024 IS 324 Social Network Analysis. 
+This GitHub repository contains contents (Python scripts and data for the lab session) for Spring 2024 IS 324 Social Network Analysis. 
 
 The network of social beings can come in a variety of forms and structures. We communicate and leave evidence of our interactions in various forms of data. For example, we leave traces of our interactions in the form of text messages, emails, and social media posts. We also leave traces of our interactions in the form of physical proximity, such as co-location and co-attendance. These traces of interactions can be transformed into a network structure. However, the network structure is not always visible and straightforward. In addition, it is not always provided in a structured format (e.g., a list of nodes and edges).
 Therefore, to study social networks, it is important to start building a network structure from unstructured data (i.e., text data) and excavate the underlying structure of the network. Processing text data and transforming it into a network structure is the fundamental step in social network analysis. This course will introduce students to hands-on experience with social network analysis (SNA) and its applications in various fields. Students will learn (1) fundamental concepts and theories of SNA, (2) how to build a network structure from unstructured data, (3) how to analyze the network structure, and (4) how to interpret the results of the analysis. Students will also learn how to apply SNA to various fields, such as information science, and social science. This course will use Python as a (1) pre-processing tool, (2) network analysis tool, and (3) visualization tool. Students will learn practical skills in Python, such as data cleaning, data transformation, and data visualization for SNA. Combining theories and practical skills, students will learn how to apply SNA to various fields. 
@@ -22,7 +22,8 @@ Week 2: Anatomy of Network Analysis
 - Network measures: degree, centrality, and betweenness 
 - Discussion of transformation to a network structure of real-world scenarios 
 - Discussion of network measures of real-world scenarios 
-- Introduction to libraries for network analysis
+- Introduction to libraries for network analysis (Pandas, NetworkX, and Matplotlib)
+- Lab Practice: Git and GitHub
 - Readings: TBD
 
 HW 1 Due: TBD
@@ -35,6 +36,7 @@ Week 3: Social Media Network Analysis
 - Lab Practice: Pandas data frame, Regular Expression
 - Lab Practice: Transformation of social media data to a network structure
 - Readings: TBD
+- Useful sources: Regex Cheat Sheet, Regex Tester
 
 Week 4: Email Network Analysis
 - Affordances of email data for network analysis: sender, receiver, and cc
@@ -43,6 +45,7 @@ Week 4: Email Network Analysis
 - Lab Practice: Email network analysis (sender, receiver, and cc)
 - Lab Practice: Transformation of email data to a network structure
 - Readings: TBD
+- Useful sources: Harvard Dataverse, Zenodo
 
 Week 5: Text Reprint Network Analysis from news articles 
 - Affordances of text data for network analysis: co-occurrence of words
@@ -50,6 +53,7 @@ Week 5: Text Reprint Network Analysis from news articles
 - Discussion of bias in digitized text data
 - Lab Practice: N-gram analysis for text data
 - Readings: TBD
+- Useful sources: Chronicling America
 
 Week 6: NetworkX library for network analysis (Connects back to Week 2)
 - Introduction to NetworkX library
@@ -59,7 +63,7 @@ Week 6: NetworkX library for network analysis (Connects back to Week 2)
 - Lab Practice: NetworkX library for calculating network measures
 - Readings: TBD
 
-HW 2 Due: TBD
+HW 2 Due: TBD & GitHub Classroom
 
 Week 7: Social Media Network Analysis with NextworkX (Connects back to Week 3)
 - Transformation of social media data to a network structure in NetworkX
@@ -75,16 +79,61 @@ Week 8: Email Network Analysis with NextworkX (Connects back to Week 4)
 - Lab Practice: NetworkX library for calculating network measures of email data
 - Readings: TBD
 
-Week 9: Text Reprint Network Analysis with NextworkX (Connects back to Week 5)
+Week 9: Spring Break
+
+Week 10: Text Reprint Network Analysis with NextworkX (Connects back to Week 5)
 - Transformation of text data to a network structure in NetworkX
 - Calculation of network measures of text data in NetworkX
 - Lab Practice: NetworkX library for representing text data
 - Lab Practice: NetworkX library for calculating network measures of text data
 - Readings: TBD
 
+HW 3 Due: TBD & GitHub Classroom
 
+Week 11: Network Visualization (Connects back to Week 2)
+- Introduction to matplotlib library
+- Visualization of a network structure in matplotlib
+- Lab Practice: matplotlib library for visualizing a network structure
+- Readings: TBD
 
+Week 12: Social Media Network Visualization (Connects back to Week 3)
+- Visualization of social media data in matplotlib
+- Lab Practice: matplotlib library for visualizing social media data
+- Readings: TBD
 
-HW 2 Due: TBD
+Week 13: Email Network Visualization (Connects back to Week 4)
+- Visualization of email data in matplotlib
+- Lab Practice: matplotlib library for visualizing email data
+- Readings: TBD
+
+Week 14: Text Reprint Network Visualization (Connects back to Week 5)
+- Visualization of text data in matplotlib
+- Lab Practice: matplotlib library for visualizing text data
+- Readings: TBD
+
+HW 4 Due: TBD & GitHub Classroom
+
+Week 15: Final Group Project Presentation
+- Final Project Presentation
+- Readings: TBD
+
+Week 16: Final Group Project Presentation
+- Final Project Presentation
+- Readings: TBD
+
+## Course Requirements
+- Attendance and participation (20%)
+- Homework assignments (40%)
+- Final project (40%)
+
+## Homework Assignments
+- Homework 1: TBD
+- Homework 2: TBD
+- Homework 3: TBD
+- Homework 4: TBD
+
+## Final Project
+- Final Project: TBD
+
 
 
