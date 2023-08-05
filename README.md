@@ -91,24 +91,24 @@ Week 10: Text Reprint Network Analysis with NextworkX (Connects back to Week 5)
 HW 3 Due: TBD & GitHub Classroom
 
 Week 11: Network Visualization (Connects back to Week 2)
-- Introduction to matplotlib library
-- Visualization of a network structure in matplotlib
-- Lab Practice: matplotlib library for visualizing a network structure
+- Introduction to Matplotlib library
+- Visualization of a network structure in Matplotlib
+- Lab Practice: Matplotlib library for visualizing a network structure
 - Readings: TBD
 
 Week 12: Social Media Network Visualization (Connects back to Week 3)
-- Visualization of social media data in matplotlib
-- Lab Practice: matplotlib library for visualizing social media data
+- Visualization of social media data in Matplotlib
+- Lab Practice: Matplotlib library for visualizing social media data
 - Readings: TBD
 
 Week 13: Email Network Visualization (Connects back to Week 4)
-- Visualization of email data in matplotlib
-- Lab Practice: matplotlib library for visualizing email data
+- Visualization of email data in Matplotlib
+- Lab Practice: Matplotlib library for visualizing email data
 - Readings: TBD
 
 Week 14: Text Reprint Network Visualization (Connects back to Week 5)
-- Visualization of text data in matplotlib
-- Lab Practice: matplotlib library for visualizing text data
+- Visualization of text data in Matplotlib
+- Lab Practice: Matplotlib library for visualizing text data
 - Readings: TBD
 
 HW 4 Due: TBD & GitHub Classroom
