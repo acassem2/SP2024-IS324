@@ -1,6 +1,6 @@
 # SP2024-IS324 Social Network Analysis
 School of Information Science, University of Illinois at Urbana-Champaign \
-Jaihyun Park 
+Jaihyun Park \
 Office Hours: TBD 
 
 This GitHub repository contains contents (Python scripts and data for the lab session) for Spring 2024 IS 324 Social Network Analysis. 
