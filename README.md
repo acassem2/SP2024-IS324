@@ -1,5 +1,4 @@
 # SP2024-IS324 Social Network Analysis
-Spring 2024 IS 324 Social Network Analysis \
 School of Information Science, University of Illinois at Urbana-Champaign \
 Jaihyun Park 
 
@@ -9,3 +8,8 @@ The network of social beings can come in a variety of forms and structures. We c
 Therefore, to study social networks, it is important to start building a network structure from unstructured data (i.e., text data) and excavate the underlying structure of the network. Processing text data and transforming it into a network structure is the fundamental step in social network analysis. This course will introduce students to hands-on experience with social network analysis (SNA) and its applications in various fields. Students will learn (1) fundamental concepts and theories of SNA, (2) how to build a network structure from unstructured data, (3) how to analyze the network structure, and (4) how to interpret the results of the analysis. Students will also learn how to apply SNA to various fields, such as information science, and social science. This course will use Python as a (1) pre-processing tool, (2) network analysis tool, and (3) visualization tool. Students will learn 
 
 ## Course Information
+Week 1: Introduction to Social Network Analysis \
+-- Basic concepts and theories of social network analysis \
+-- Installation of Python, Jupyter Notebook, and setting up GitHub repository \
+
+Week 2: 
