@@ -13,7 +13,7 @@ Week 1: Introduction
 - Basic concepts and theories of social network analysis 
 - Discussion of expectations and goals for the course 
 - Discussion of applications of social network analysis 
-- Installation of Python, Jupyter Notebook, and setting up GitHub repository 
+- Installation of Python, IDE (Preferably VS Code), Anaconda (Jupyter Notebook), and setting up GitHub repository 
 - Readings: TBD 
 
 Week 2: Anatomy of Network Analysis 
@@ -22,6 +22,7 @@ Week 2: Anatomy of Network Analysis
 - Network measures: degree, centrality, and betweenness 
 - Discussion of transformation to a network structure of real-world scenarios 
 - Discussion of network measures of real-world scenarios 
+- Introduction to the Python environment (Anaconda)
 - Introduction to libraries for network analysis (Pandas, NetworkX, and Matplotlib)
 - Lab Practice: Git and GitHub
 - Readings: TBD
