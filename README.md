@@ -15,7 +15,7 @@ Week 1: Introduction
 - Discussion of applications of social network analysis 
 - Installation of Python, IDE (Preferably VS Code), Anaconda (Jupyter Notebook), and setting up GitHub repository 
 - Readings:
-* Connolly, R. (2020) Why computing belongs within the social sciences. [paper]{https://dl-acm-org.proxy2.library.illinois.edu/doi/10.1145/3383444)
+* Connolly, R. (2020) Why computing belongs within the social sciences. [paper](https://dl-acm-org.proxy2.library.illinois.edu/doi/10.1145/3383444)
 
 Week 2: Anatomy of Network Analysis 
 - Basic constituents of a network: nodes, edges, and attributes 
