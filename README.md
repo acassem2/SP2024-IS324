@@ -40,8 +40,9 @@ Week 3: Social Media Network Analysis
 - Lab Practice: Transformation of social media data to a network structure
 - Readings: 
     - Kwak, H., Lee, C., Park, H., & Moon, S. (2010). "What is Twitter, a social network or a news media?" In Proceedings of the 19th international conference on World wide web (pp. 591 - 600). [paper](https://dl-acm-org.proxy2.library.illinois.edu/doi/pdf/10.1145/1772690.1772751)
-    - Keller, F. B., Schoch, D., Stier, S., & Yang, J. (2020). Political astroturfing on twitter: How to coordinate a disinformation campaign. *Political communication*, 37(2), 256-280. [paper](https://www.tandfonline.com/doi/full/10.1080/10584609.2019.1661888?casa_token=FG3hReJmDAMAAAAA%3APjYEOFSJOjLzXCyxfQGaQ-sHbrk9kEOVM0DWhn3rTCgFk9eEOETXmDlVKigLgS3AYPEdqrViw11n)
-    - Gallacher, J. D., Heerdink, M. W., & Hewstone, M. (2021). Online engagement between opposing political protest groups via social media is linked to physical violence offline encounters. *Social Media+ Society*, 7(1) [paper](https://journals-sagepub-com.proxy2.library.illinois.edu/doi/full/10.1177/2056305120984445)
+    - Keller, F. B., Schoch, D., Stier, S., & Yang, J. (2020). "Political astroturfing on twitter: How to coordinate a disinformation campaign." *Political communication*, 37(2), 256-280. [paper](https://www.tandfonline.com/doi/full/10.1080/10584609.2019.1661888?casa_token=FG3hReJmDAMAAAAA%3APjYEOFSJOjLzXCyxfQGaQ-sHbrk9kEOVM0DWhn3rTCgFk9eEOETXmDlVKigLgS3AYPEdqrViw11n)
+    - Gallacher, J. D., Heerdink, M. W., & Hewstone, M. (2021). "Online engagement between opposing political protest groups via social media is linked to physical violence offline encounters." *Social Media+ Society*, 7(1) [paper](https://journals-sagepub-com.proxy2.library.illinois.edu/doi/full/10.1177/2056305120984445)
+    - An, J., Kwak, H., Posegga, O., & Junherr, A. (2019). "Political discussions in homogeneous and cross-cutting communication spaces." In Proceddings of the International AAAI Conference on Web and Social Media (Vol. 13, pp. 68-79). [paper](https://ojs.aaai.org/index.php/ICWSM/article/view/3210)
 - Useful sources: Regex Cheat Sheet, Regex Tester
 
 Week 4: Email Network Analysis
