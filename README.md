@@ -15,8 +15,10 @@ Week 1: Introduction
 - Discussion of applications of social network analysis 
 - Installation of Python, IDE (Preferably VS Code), Anaconda (Jupyter Notebook), and setting up GitHub repository 
 - Readings:
+    - Lazer D. et al. (2009). "Computational social science." *Science* 323 (5915), 721-723. [paper](https://www.science.org/doi/full/10.1126/science.1167742?casa_token=LPRTTxsd-qoAAAAA:o9zrGUKD7QgYTQYy7PbowP1JpioaWDZrUUev-ynpXJTnWg-ObuJ2Ixbh4A_UJ4ImhS0B06xbt0c_fA)
     - Connolly, R. (2020) "Why computing belongs within the social sciences." 
 *communications of the ACM* 63 (8), 54-59. [paper](https://dl-acm-org.proxy2.library.illinois.edu/doi/10.1145/3383444)
+    - Lightning AI. "Jupyter Notebooks vs Python projects: Learn when when to use which | Ep1" [video](https://www.youtube.com/watch?v=JGnoTN1OnWY)
 
 Week 2: Anatomy of Network Analysis 
 - Basic constituents of a network: nodes, edges, and attributes 
@@ -66,6 +68,10 @@ Week 6: NetworkX library for network analysis (Connects back to Week 2)
 - Introduction to NetworkX library
 - Transformation of nodes, edges, and attributes to a network structure in NetworkX
 - Calculation of network measures in NetworkX
+    - Assortativity
+    - Clustering
+    - Structural holes
+    - Community detection (e.g., Louvain method)
 - Lab Practice: NetworkX library for representing nodes, edges, and attributes
 - Lab Practice: NetworkX library for calculating network measures
 - Readings: TBD
