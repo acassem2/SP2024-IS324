@@ -38,7 +38,8 @@ Week 3: Social Media Network Analysis
 - Lab Practice: Twitter network analysis (mention, retweet, and hashtag)
 - Lab Practice: Pandas data frame, Regular Expression
 - Lab Practice: Transformation of social media data to a network structure
-- Readings: TBD
+- Readings: 
+    - Kwak, H., Lee, C., Park, H., & Moon, S. (2010). "What is Twitter, a social network or a news media?" In Proceedings of the 19th international conference on World wide web (pp/ 591 - 600). [paper](https://dl-acm-org.proxy2.library.illinois.edu/doi/pdf/10.1145/1772690.1772751)
 - Useful sources: Regex Cheat Sheet, Regex Tester
 
 Week 4: Email Network Analysis
