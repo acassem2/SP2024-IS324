@@ -19,6 +19,7 @@ Week 1: Introduction
     - Connolly, R. (2020) "Why computing belongs within the social sciences." 
 *communications of the ACM* 63 (8), 54-59. [paper](https://dl-acm-org.proxy2.library.illinois.edu/doi/10.1145/3383444)
     - Zhang, J., Wang, W., Xia, F., Lin, Y. R., & Tong, H. (2020). "Data-driven computational social science: A survey." *Big Data Research*, 21, 100145. [paper](https://www-sciencedirect-com.proxy2.library.illinois.edu/science/article/pii/S2214579620300137?casa_token=w7E-zgChGPUAAAAA:Tbi7HyvUaPvPc2KIjkWjoX7ogAXoTS56pJk0oEG3yMaP07Bm588mmfgZGVyWJm5wQDlbcZ9Fsw)
+    - Barlett et al. (2018). "The locus of legitimate interpretation in Big Data sciences: Lessons for computational social science from -omic biology and high-energy physics." *Big Data & Society*, 5(1), 1-15. [paper](https://journals-sagepub-com.proxy2.library.illinois.edu/doi/full/10.1177/2053951718768831) 
     - Lightning AI. "Jupyter Notebooks vs Python projects: Learn when when to use which | Ep1" [video](https://www.youtube.com/watch?v=JGnoTN1OnWY)
 
 Week 2: Anatomy of Network Analysis 
