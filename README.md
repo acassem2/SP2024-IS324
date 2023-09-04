@@ -37,7 +37,7 @@ Week 2: Anatomy of Network Analysis
     - Yang, S. et al. (2018). "Basics of Social Science Analysis." *The SAGE Handbook of Social Network Analysis: Methods and Examples*, 3-25. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-1e/i173.xml) https://doi.org/10.4135/9781071802847
     - Yang, S. et al. (2018). "Descriptive Methods in Social Network Analysis." *The SAGE Handbook of Social Network Analysis: Methods and Examples*, 54-85. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-1e/i328.xml) https://doi.org/10.4135/9781071802847
 
-HW 1 Due: TBD
+HW 1 Announcement: Due TBD
 
 Week 3: Social Media Network Analysis
 - Affordances of social media data for network analysis: mention, retweet, and hashtag
