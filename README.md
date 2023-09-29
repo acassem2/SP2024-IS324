@@ -39,7 +39,11 @@ Week 2: Anatomy of Network Analysis
 
 HW 1 Announcement: Due TBD
 
-Week 3: Social Media Network Analysis
+Week 3: Social Network Theories
+- Basic concepts and theories of social network analysis
+
+
+Week 4: Social Media Network Analysis
 - Affordances of social media data for network analysis: mention, retweet, and hashtag
 - Discussion of transformation to a network structure of social media data
 - Discussion of network measures of social media data
@@ -54,7 +58,7 @@ Week 3: Social Media Network Analysis
     - Ng, L. H. X., Cruickshank, I. J., & Carley, K. M. (2022). Cross-platform information spread during the january 6th capitol riots. Social Network Analysis and Mining, 12(1), 133. [paper](https://link-springer-com.proxy2.library.illinois.edu/article/10.1007/s13278-022-00937-1)
 - Useful sources: Regex Cheat Sheet, Regex Tester
 
-Week 4: Email Network Analysis
+Week 5: Email Network Analysis
 - Affordances of email data for network analysis: sender, receiver, and cc
 - Discussion of transformation to a network structure of email data
 - Discussion of network measures of email data
@@ -63,7 +67,7 @@ Week 4: Email Network Analysis
 - Readings: TBD
 - Useful sources: Harvard Dataverse, Zenodo
 
-Week 5: Text Reprint Network Analysis from news articles 
+Week 6: Text Reprint Network Analysis from news articles 
 - Affordances of text data for network analysis: co-occurrence of words
 - Discussion of transformation to a network structure of text data
 - Discussion of bias in digitized text data
@@ -71,7 +75,7 @@ Week 5: Text Reprint Network Analysis from news articles
 - Readings: TBD
 - Useful sources: Chronicling America
 
-Week 6: NetworkX library for network analysis (Connects back to Week 2)
+Week 7: NetworkX library for network analysis (Connects back to Week 2)
 - Introduction to NetworkX library
 - Transformation of nodes, edges, and attributes to a network structure in NetworkX
 - Calculation of network measures in NetworkX
@@ -85,23 +89,23 @@ Week 6: NetworkX library for network analysis (Connects back to Week 2)
 
 HW 2 Due: TBD & GitHub Classroom
 
-Week 7: Social Media Network Analysis with NextworkX (Connects back to Week 3)
+Week 8: Social Media Network Analysis with NextworkX (Connects back to Week 3)
 - Transformation of social media data to a network structure in NetworkX
 - Calculation of network measures of social media data in NetworkX
 - Lab Practice: NetworkX library for representing social media data
 - Lab Practice: NetworkX library for calculating network measures of social media data
 - Readings: TBD
 
-Week 8: Email Network Analysis with NextworkX (Connects back to Week 4)
+Week 9: Spring Break
+
+Week 10: Email Network Analysis with NextworkX (Connects back to Week 4)
 - Transformation of email data to a network structure in NetworkX
 - Calculation of network measures of email data in NetworkX
 - Lab Practice: NetworkX library for representing email data
 - Lab Practice: NetworkX library for calculating network measures of email data
 - Readings: TBD
 
-Week 9: Spring Break
-
-Week 10: Text Reprint Network Analysis with NextworkX (Connects back to Week 5)
+Week 11: Text Reprint Network Analysis with NextworkX (Connects back to Week 5)
 - Transformation of text data to a network structure in NetworkX
 - Calculation of network measures of text data in NetworkX
 - Lab Practice: NetworkX library for representing text data
@@ -110,13 +114,14 @@ Week 10: Text Reprint Network Analysis with NextworkX (Connects back to Week 5)
 
 HW 3 Due: TBD & GitHub Classroom
 
-Week 11: Network Visualization (Connects back to Week 2)
-- Introduction to Matplotlib library
-- Visualization of a network structure in Matplotlib
-- Lab Practice: Matplotlib library for visualizing a network structure
+%Week 11: Network Visualization (Connects back to Week 2)
+
 - Readings: TBD
 
 Week 12: Social Media Network Visualization (Connects back to Week 3)
+- Introduction to Matplotlib library
+- Visualization of a network structure in Matplotlib
+- Lab Practice: Matplotlib library for visualizing a network structure
 - Visualization of social media data in Matplotlib
 - Lab Practice: Matplotlib library for visualizing social media data
 - Readings: TBD
