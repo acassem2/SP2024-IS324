@@ -81,7 +81,8 @@ Week 5: Text Reprint Network Analysis from news articles
 - Discussion of transformation to a network structure of text data
 - Discussion of bias in digitized text data
 - Lab Practice: N-gram analysis for text data
-- Readings: TBD
+- Readings: 
+    - Smith, D. A., Cordel, R., Dillon, E. M., Stramp, N., & Wilkerson, J. (2014, September). Detecting and modeling local text reuse. In IEEE/ACM Joint Conference on Digital Libraries (pp. 183-192). IEEE [paper](https://ieeexplore.ieee.org/abstract/document/6970166?casa_token=hM_6Ui1E00IAAAAA:btt1A3g4lerzn2pOWreQrJQZpAhvt2h741jzf7aEdhfZN-gBz4RTYu9gEfIyko5PTUSD_gl_Aw)
 - Useful sources: Chronicling America
 
 Week 6: NetworkX library for network analysis (Connects back to Week 2)
