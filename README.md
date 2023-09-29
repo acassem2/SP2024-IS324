@@ -179,7 +179,7 @@ Week 16: Final Group Project Presentation
 - F: 0-59
 
 ## Homework Assignments
-- Homework 1: Write an essay on the application of social network analysis to your research interest. The essay should include (1) a brief description of your research interest, (2) a brief description of the application of social network analysis to your research interest, and (3) a brief description of the data that you will use for the application of social network analysis to your research interest. The essay should be 2-3 pages long (double-spaced, 12-point font, 1-inch margin).
+- Homework 1: Write an essay on the application of social network analysis to your research interest. The essay should include (1) a brief description of your research interest, (2) a brief description of the application of social network analysis to your research interest, and (3) a brief description of the data that you will use for the application of social network analysis to your research interest. The essay should be no longer than 5 pages (double-spaced, 12-point font, 1-inch margin).
 
 - Homework 2: TBD
 - Homework 3: TBD
