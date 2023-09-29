@@ -41,6 +41,7 @@ Week 2: Anatomy of Network Analysis and Social Network Theories
     - Scott, J. (2017). "What is Social Network Analysis?" *The SAGE Handbook of Social Network Analysis*, 1-10. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-4e/i317.xml) https://doi.org/10.4135/9781529716597
     - Yang, S. et al. (2018). "Basics of Social Science Analysis." *The SAGE Handbook of Social Network Analysis: Methods and Examples*, 3-25. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-1e/i173.xml) https://doi.org/10.4135/9781071802847
     - Yang, S. et al. (2018). "Descriptive Methods in Social Network Analysis." *The SAGE Handbook of Social Network Analysis: Methods and Examples*, 54-85. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-1e/i328.xml) https://doi.org/10.4135/9781071802847
+    - McPherson, M., Smith-Lovin, L., & Cook, J. M. (2001). Birds of a feather: Homophily in social networks. Annual review of sociology, 27(1), 415-444. [paper](https://www.annualreviews.org/doi/full/10.1146/annurev.soc.27.1.415?casa_token=fusufNevercAAAAA%3ACwOvY9hCbAjO795TJBB14c-JGljWqEz2p1M4AaEWG4oQOrXAqxc_ZYdba7cYsgDa3Q0YJKUReoQ4)
 -Lab materials:
     - Python for Everybody (PY4E) [link](https://www.py4e.com/)
     - Pandas Cookbook [link](https://pandas.pydata.org/docs/user_guide/cookbook.html#cookbook)
@@ -60,6 +61,7 @@ Week 3: Social Media Network Analysis
     - Gallacher, J. D., Heerdink, M. W., & Hewstone, M. (2021). "Online engagement between opposing political protest groups via social media is linked to physical violence offline encounters." *Social Media+ Society*, 7(1) [paper](https://journals-sagepub-com.proxy2.library.illinois.edu/doi/full/10.1177/2056305120984445)
     - An, J., Kwak, H., Posegga, O., & Junherr, A. (2019). "Political discussions in homogeneous and cross-cutting communication spaces." In Proceddings of the International AAAI Conference on Web and Social Media (Vol. 13, pp. 68-79). [paper](https://ojs.aaai.org/index.php/ICWSM/article/view/3210)
     - Ng, L. H. X., Cruickshank, I. J., & Carley, K. M. (2022). Cross-platform information spread during the january 6th capitol riots. Social Network Analysis and Mining, 12(1), 133. [paper](https://link-springer-com.proxy2.library.illinois.edu/article/10.1007/s13278-022-00937-1)
+    - Stewart, L. G., Arif, A., & Starbird, K. (2018, February). Examining trolls and polarization with a retweet network. In Proc. ACM WSDM, workshop on misinformation and misbehavior mining on the web (Vol. 70). [paper](http://faculty.washington.edu/kstarbi/examining-trolls-polarization.pdf)
 - Useful sources: Regex Cheat Sheet, Regex Tester
 
 Week 4: Email Network Analysis
