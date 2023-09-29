@@ -38,7 +38,7 @@ Week 2: Anatomy of Network Analysis and Social Network Theories
 - Lab Practice: Git and GitHub / Introduction to Pandas library
 - Readings: 
     - Borgatti et al. (2009). "Network analysis in the social sciences." *Science*, 323(5916), 892-895. [paper](https://www.science.org/doi/full/10.1126/science.1165821?casa_token=JPDFoDdpKu8AAAAA%3Ao1DANHfT-4yRx1B_NEa7_1IrbSdAaSaOrHbplwO-GDzQvCUj8GU5ioRlC2_oGxCg19IQUdXyl44EPw)
-    - Scott, J. (2017). "What is Social Network Analysis?" *The SAGE Handbook of Social Network Analysis*, 1-10. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-4e/i317.xml) https://doi.org/10.4135/9781529716597
+    - Scott, J. (2017). "What is Social Network Analysis?" *The SAGE Handbook of Social Network Analysis*, 1-10. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-4e/i317.xml) 
     - Yang, S. et al. (2018). "Basics of Social Science Analysis." *The SAGE Handbook of Social Network Analysis: Methods and Examples*, 3-25. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-1e/i173.xml) 
     - Yang, S. et al. (2018). "Descriptive Methods in Social Network Analysis." *The SAGE Handbook of Social Network Analysis: Methods and Examples*, 54-85. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-1e/i328.xml) 
     - McPherson, M., Smith-Lovin, L., & Cook, J. M. (2001). Birds of a feather: Homophily in social networks. Annual review of sociology, 27(1), 415-444. [paper](https://www.annualreviews.org/doi/full/10.1146/annurev.soc.27.1.415?casa_token=fusufNevercAAAAA%3ACwOvY9hCbAjO795TJBB14c-JGljWqEz2p1M4AaEWG4oQOrXAqxc_ZYdba7cYsgDa3Q0YJKUReoQ4)
