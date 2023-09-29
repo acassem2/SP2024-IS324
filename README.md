@@ -21,6 +21,10 @@ Week 1: Introduction
     - Zhang, J., Wang, W., Xia, F., Lin, Y. R., & Tong, H. (2020). "Data-driven computational social science: A survey." *Big Data Research*, 21, 100145. [paper](https://www-sciencedirect-com.proxy2.library.illinois.edu/science/article/pii/S2214579620300137?casa_token=w7E-zgChGPUAAAAA:Tbi7HyvUaPvPc2KIjkWjoX7ogAXoTS56pJk0oEG3yMaP07Bm588mmfgZGVyWJm5wQDlbcZ9Fsw)
     - Barlett et al. (2018). "The locus of legitimate interpretation in Big Data sciences: Lessons for computational social science from -omic biology and high-energy physics." *Big Data & Society*, 5(1), 1-15. [paper](https://journals-sagepub-com.proxy2.library.illinois.edu/doi/full/10.1177/2053951718768831) 
     - Lightning AI. "Jupyter Notebooks vs Python projects: Learn when when to use which | Ep1" [video](https://www.youtube.com/watch?v=JGnoTN1OnWY)
+- Lab materials:
+    - VS code. [link](https://code.visualstudio.com/)
+    - Git [link](https://github.com/git-guides/install-git#install-git)
+    - Github [link](https://github.com/)
 
 Week 2: Anatomy of Network Analysis 
 - Basic constituents of a network: nodes, edges, and attributes 
@@ -30,12 +34,15 @@ Week 2: Anatomy of Network Analysis
 - Discussion of network measures of real-world scenarios 
 - Introduction to the Python environment (Anaconda)
 - Introduction to libraries for network analysis (Pandas, NetworkX, and Matplotlib)
+- Lab Practice: Basic Python
 - Lab Practice: Git and GitHub / Introduction to Pandas library
 - Readings: 
     - Borgatti et al. (2009). "Network analysis in the social sciences." *Science*, 323(5916), 892-895. [paper](https://www.science.org/doi/full/10.1126/science.1165821?casa_token=JPDFoDdpKu8AAAAA%3Ao1DANHfT-4yRx1B_NEa7_1IrbSdAaSaOrHbplwO-GDzQvCUj8GU5ioRlC2_oGxCg19IQUdXyl44EPw)
     - Scott, J. (2017). "What is Social Network Analysis?" *The SAGE Handbook of Social Network Analysis*, 1-10. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-4e/i317.xml) https://doi.org/10.4135/9781529716597
     - Yang, S. et al. (2018). "Basics of Social Science Analysis." *The SAGE Handbook of Social Network Analysis: Methods and Examples*, 3-25. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-1e/i173.xml) https://doi.org/10.4135/9781071802847
     - Yang, S. et al. (2018). "Descriptive Methods in Social Network Analysis." *The SAGE Handbook of Social Network Analysis: Methods and Examples*, 54-85. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-1e/i328.xml) https://doi.org/10.4135/9781071802847
+    - Python for Everybody (PY4E) [link](https://www.py4e.com/)
+    - Pandas Cookbook [link](https://pandas.pydata.org/docs/user_guide/cookbook.html#cookbook)
 
 HW 1 Announcement: Due TBD
 
