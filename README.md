@@ -87,7 +87,7 @@ Week 7: NetworkX library for network analysis (Connects back to Week 2)
 - Lab Practice: NetworkX library for calculating network measures
 - Readings: TBD
 
-HW 2 Due: TBD & GitHub Classroom
+HW 2 Due: TBD & GitHub Classroom (Regular Expression)
 
 Week 8: Social Media Network Analysis with NextworkX (Connects back to Week 3)
 - Transformation of social media data to a network structure in NetworkX
@@ -112,17 +112,16 @@ Week 11: Text Reprint Network Analysis with NextworkX (Connects back to Week 5)
 - Lab Practice: NetworkX library for calculating network measures of text data
 - Readings: TBD
 
-HW 3 Due: TBD & GitHub Classroom
+HW 3 Due: TBD & GitHub Classroom (NetworkX objects)
 
 <!--Week 11: Network Visualization (Connects back to Week 2)-->
-
-- Readings: TBD
+<!--- Readings: TBD-->
 
 Week 12: Social Media Network Visualization (Connects back to Week 3)
 - Introduction to Matplotlib library
 - Visualization of a network structure in Matplotlib
-- Lab Practice: Matplotlib library for visualizing a network structure
 - Visualization of social media data in Matplotlib
+- Lab Practice: Matplotlib library for visualizing a network structure
 - Lab Practice: Matplotlib library for visualizing social media data
 - Readings: TBD
 
@@ -136,7 +135,7 @@ Week 14: Text Reprint Network Visualization (Connects back to Week 5)
 - Lab Practice: Matplotlib library for visualizing text data
 - Readings: TBD
 
-HW 4 Due: TBD & GitHub Classroom
+HW 4 Due: TBD & GitHub Classroom (Network Visualization)
 
 Week 15: Final Group Project Presentation
 - Final Project Presentation
