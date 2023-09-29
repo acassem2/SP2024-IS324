@@ -33,10 +33,8 @@ Week 2: Anatomy of Network Analysis and Social Network Theories
 - Social network theories: homophily, cognitive dissonance, echo chamber
 - Discussion of transformation to a network structure of real-world scenarios 
 - Discussion of network measures of real-world scenarios 
-- Introduction to the Python environment (Anaconda)
-- Introduction to libraries for network analysis (Pandas, NetworkX, and Matplotlib)
-- Lab Practice: Basic Python
-- Lab Practice: Git and GitHub / Introduction to Pandas library
+- Introduction to the Python environment (Anaconda), libraries for network analysis (Pandas, NetworkX, and Matplotlib)
+- Lab Practice: Basic Python, Git and GitHub / Introduction to Pandas library
 - Readings: 
     - Borgatti et al. (2009). "Network analysis in the social sciences." *Science*, 323(5916), 892-895. [paper](https://www.science.org/doi/full/10.1126/science.1165821?casa_token=JPDFoDdpKu8AAAAA%3Ao1DANHfT-4yRx1B_NEa7_1IrbSdAaSaOrHbplwO-GDzQvCUj8GU5ioRlC2_oGxCg19IQUdXyl44EPw)
     - Scott, J. (2017). "What is Social Network Analysis?" *The SAGE Handbook of Social Network Analysis*, 1-10. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-4e/i317.xml) 
