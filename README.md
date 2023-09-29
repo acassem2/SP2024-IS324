@@ -114,7 +114,7 @@ Week 11: Text Reprint Network Analysis with NextworkX (Connects back to Week 5)
 
 HW 3 Due: TBD & GitHub Classroom
 
-%Week 11: Network Visualization (Connects back to Week 2)
+<!--Week 11: Network Visualization (Connects back to Week 2)-->
 
 - Readings: TBD
 
