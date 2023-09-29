@@ -23,10 +23,10 @@ Week 1: Introduction
     - Lightning AI. "Jupyter Notebooks vs Python projects: Learn when when to use which | Ep1" [video](https://www.youtube.com/watch?v=JGnoTN1OnWY)
 - Lab materials:
     - VS code. [link](https://code.visualstudio.com/)
-    - Git [link](https://github.com/git-guides/install-git#install-git)
-    - Github [link](https://github.com/)
+    - Git. [link](https://github.com/git-guides/install-git#install-git)
+    - Github. [link](https://github.com/)
 
-Week 2: Anatomy of Network Analysis 
+Week 2: Anatomy of Network Analysis and Social Network Theories
 - Basic constituents of a network: nodes, edges, and attributes 
 - Types of networks: directed, undirected, weighted, and unweighted 
 - Network measures: degree, centrality, and betweenness 
@@ -41,16 +41,13 @@ Week 2: Anatomy of Network Analysis
     - Scott, J. (2017). "What is Social Network Analysis?" *The SAGE Handbook of Social Network Analysis*, 1-10. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-4e/i317.xml) https://doi.org/10.4135/9781529716597
     - Yang, S. et al. (2018). "Basics of Social Science Analysis." *The SAGE Handbook of Social Network Analysis: Methods and Examples*, 3-25. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-1e/i173.xml) https://doi.org/10.4135/9781071802847
     - Yang, S. et al. (2018). "Descriptive Methods in Social Network Analysis." *The SAGE Handbook of Social Network Analysis: Methods and Examples*, 54-85. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-1e/i328.xml) https://doi.org/10.4135/9781071802847
+-Lab materials:
     - Python for Everybody (PY4E) [link](https://www.py4e.com/)
     - Pandas Cookbook [link](https://pandas.pydata.org/docs/user_guide/cookbook.html#cookbook)
 
 HW 1 Announcement: Due TBD
 
-Week 3: Social Network Theories
-- Basic concepts and theories of social network analysis
-
-
-Week 4: Social Media Network Analysis
+Week 3: Social Media Network Analysis
 - Affordances of social media data for network analysis: mention, retweet, and hashtag
 - Discussion of transformation to a network structure of social media data
 - Discussion of network measures of social media data
@@ -65,7 +62,7 @@ Week 4: Social Media Network Analysis
     - Ng, L. H. X., Cruickshank, I. J., & Carley, K. M. (2022). Cross-platform information spread during the january 6th capitol riots. Social Network Analysis and Mining, 12(1), 133. [paper](https://link-springer-com.proxy2.library.illinois.edu/article/10.1007/s13278-022-00937-1)
 - Useful sources: Regex Cheat Sheet, Regex Tester
 
-Week 5: Email Network Analysis
+Week 4: Email Network Analysis
 - Affordances of email data for network analysis: sender, receiver, and cc
 - Discussion of transformation to a network structure of email data
 - Discussion of network measures of email data
@@ -74,7 +71,7 @@ Week 5: Email Network Analysis
 - Readings: TBD
 - Useful sources: Harvard Dataverse, Zenodo
 
-Week 6: Text Reprint Network Analysis from news articles 
+Week 5: Text Reprint Network Analysis from news articles 
 - Affordances of text data for network analysis: co-occurrence of words
 - Discussion of transformation to a network structure of text data
 - Discussion of bias in digitized text data
@@ -82,7 +79,7 @@ Week 6: Text Reprint Network Analysis from news articles
 - Readings: TBD
 - Useful sources: Chronicling America
 
-Week 7: NetworkX library for network analysis (Connects back to Week 2)
+Week 6: NetworkX library for network analysis (Connects back to Week 2)
 - Introduction to NetworkX library
 - Transformation of nodes, edges, and attributes to a network structure in NetworkX
 - Calculation of network measures in NetworkX
@@ -96,23 +93,23 @@ Week 7: NetworkX library for network analysis (Connects back to Week 2)
 
 HW 2 Due: TBD & GitHub Classroom (Regular Expression)
 
-Week 8: Social Media Network Analysis with NextworkX (Connects back to Week 3)
+Week 7: Social Media Network Analysis with NextworkX (Connects back to Week 3)
 - Transformation of social media data to a network structure in NetworkX
 - Calculation of network measures of social media data in NetworkX
 - Lab Practice: NetworkX library for representing social media data
 - Lab Practice: NetworkX library for calculating network measures of social media data
 - Readings: TBD
 
-Week 9: Spring Break
-
-Week 10: Email Network Analysis with NextworkX (Connects back to Week 4)
+Week 8: Email Network Analysis with NextworkX (Connects back to Week 4)
 - Transformation of email data to a network structure in NetworkX
 - Calculation of network measures of email data in NetworkX
 - Lab Practice: NetworkX library for representing email data
 - Lab Practice: NetworkX library for calculating network measures of email data
 - Readings: TBD
 
-Week 11: Text Reprint Network Analysis with NextworkX (Connects back to Week 5)
+Week 9: Spring Break
+
+Week 10: Text Reprint Network Analysis with NextworkX (Connects back to Week 5)
 - Transformation of text data to a network structure in NetworkX
 - Calculation of network measures of text data in NetworkX
 - Lab Practice: NetworkX library for representing text data
@@ -124,7 +121,7 @@ HW 3 Due: TBD & GitHub Classroom (NetworkX objects)
 <!--Week 11: Network Visualization (Connects back to Week 2)-->
 <!--- Readings: TBD-->
 
-Week 12: Social Media Network Visualization (Connects back to Week 3)
+Week 11: Social Media Network Visualization (Connects back to Week 3)
 - Introduction to Matplotlib library
 - Visualization of a network structure in Matplotlib
 - Visualization of social media data in Matplotlib
@@ -132,17 +129,20 @@ Week 12: Social Media Network Visualization (Connects back to Week 3)
 - Lab Practice: Matplotlib library for visualizing social media data
 - Readings: TBD
 
-Week 13: Email Network Visualization (Connects back to Week 4)
+Week 12: Email Network Visualization (Connects back to Week 4)
 - Visualization of email data in Matplotlib
 - Lab Practice: Matplotlib library for visualizing email data
 - Readings: TBD
 
-Week 14: Text Reprint Network Visualization (Connects back to Week 5)
+Week 13: Text Reprint Network Visualization (Connects back to Week 5)
 - Visualization of text data in Matplotlib
 - Lab Practice: Matplotlib library for visualizing text data
 - Readings: TBD
 
 HW 4 Due: TBD & GitHub Classroom (Network Visualization)
+
+Week 14: Final Group Help Session
+- Readings: TBD
 
 Week 15: Final Group Project Presentation
 - Final Project Presentation
@@ -156,6 +156,7 @@ Week 16: Final Group Project Presentation
 - Attendance and participation (20%)
 - Homework assignments (40%)
 - Final project (40%)
+- Students peer review for final project (Earn extra credit)
 
 ## Grading
 - A+: 97-100
