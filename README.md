@@ -43,7 +43,9 @@ Week 2: Anatomy of Network Analysis and Social Network Theories
     - Yang, S. et al. (2018). "Basics of Social Science Analysis." *The SAGE Handbook of Social Network Analysis: Methods and Examples*, 3-25. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-1e/i173.xml) 
     - Yang, S. et al. (2018). "Descriptive Methods in Social Network Analysis." *The SAGE Handbook of Social Network Analysis: Methods and Examples*, 54-85. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-1e/i328.xml) 
     - McPherson, M., Smith-Lovin, L., & Cook, J. M. (2001). Birds of a feather: Homophily in social networks. Annual review of sociology, 27(1), 415-444. [paper](https://www.annualreviews.org/doi/full/10.1146/annurev.soc.27.1.415?casa_token=fusufNevercAAAAA%3ACwOvY9hCbAjO795TJBB14c-JGljWqEz2p1M4AaEWG4oQOrXAqxc_ZYdba7cYsgDa3Q0YJKUReoQ4)
+    - Festinger, L. (1962). Cognitive dissonance. Scientific American, 207(4), 93-106. [paper](https://www.jstor.org/stable/24936719?casa_token=NuPH_CGOIo4AAAAA%3AgFL4u5Aqgf6xSCjBqyaogKOroNWQcApz08LS8BMDiBXLuq4lrLd4GExX92AsiE1SzqEE1hKUrsiaOoINGDj1djvBbOZ-7q77leHSv86LJXuQVXLL9ik)
     - Jeong, M., Zo, H., Lee, C. H., & Ceran, Y. (2019). Feeling displeasure from online social media postings: A study using cognitive dissonance theory. Computers in Human Behavior, 97, 231-240. [paper](https://www.sciencedirect.com/science/article/pii/S0747563219300792?casa_token=0HSAkoYaP5kAAAAA:47vDFmYV9i6q7S_dL7HIOaqzVwMuc01Il4r1nk0n3INbHKAvhdwvjH0bGmGbrMb8LGBiMRdJGQ)
+
 - Lab materials:
     - Python for Everybody (PY4E) [link](https://www.py4e.com/)
     - Pandas Cookbook [link](https://pandas.pydata.org/docs/user_guide/cookbook.html#cookbook)
