@@ -42,7 +42,7 @@ Week 2: Anatomy of Network Analysis and Social Network Theories
     - Yang, S. et al. (2018). "Basics of Social Science Analysis." *The SAGE Handbook of Social Network Analysis: Methods and Examples*, 3-25. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-1e/i173.xml) 
     - Yang, S. et al. (2018). "Descriptive Methods in Social Network Analysis." *The SAGE Handbook of Social Network Analysis: Methods and Examples*, 54-85. [paper](https://methods-sagepub-com.proxy2.library.illinois.edu/book/social-network-analysis-1e/i328.xml) 
     - McPherson, M., Smith-Lovin, L., & Cook, J. M. (2001). Birds of a feather: Homophily in social networks. Annual review of sociology, 27(1), 415-444. [paper](https://www.annualreviews.org/doi/full/10.1146/annurev.soc.27.1.415?casa_token=fusufNevercAAAAA%3ACwOvY9hCbAjO795TJBB14c-JGljWqEz2p1M4AaEWG4oQOrXAqxc_ZYdba7cYsgDa3Q0YJKUReoQ4)
--Lab materials:
+- Lab materials:
     - Python for Everybody (PY4E) [link](https://www.py4e.com/)
     - Pandas Cookbook [link](https://pandas.pydata.org/docs/user_guide/cookbook.html#cookbook)
 
