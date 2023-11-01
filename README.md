@@ -1,5 +1,5 @@
 # SP2024-IS324 Social Network Analysis
-School of Information Science, University of Illinois at Urbana-Champaign \
+School of Information Sciences, University of Illinois at Urbana-Champaign \
 Jaihyun Park \
 Office Hours: TBD 
 
