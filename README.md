@@ -182,7 +182,8 @@ Week 16: Final Group Project Presentation
 ## Homework Assignments
 - Homework 1: Write an essay on the application of social network analysis to your research interest. The essay should include (1) a brief description of your research interest, (2) a brief description of the application of social network analysis to your research interest, and (3) a brief description of the data that you will use for the application of social network analysis to your research interest. The essay should be no longer than 5 pages (double-spaced, 12-point font, 1-inch margin).
 
-- Homework 2: TBD
+- Homework 2: Create a networkX object from a given dataset (e.g., email data, social media data, and text data). In this assignment, students will be given a random type of dataset (e.g., email data, social media data, and text data) and will use regular expression to extract nodes and transform the dataset into pandas data frame. Then, students will use networkX library to create a networkX object. The networkX object should include (1) nodes, (2) edges, and (3) attributes for nodes and edges. Document the process of creating the networkX object in a Jupyter notebook. The Jupyter notebook should include (1) a brief description of the dataset, (2) a brief description of the process of creating the networkX object, and (3) a brief description of the networkX object. The assignment should be submitted as a Jupyter notebook file (.ipynb) and a html file (.html). 
+
 - Homework 3: TBD
 - Homework 4: TBD
 
