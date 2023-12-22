@@ -48,7 +48,7 @@ Week 2: Anatomy of Network Analysis and Social Network Theories
     - Python for Everybody (PY4E) [link](https://www.py4e.com/)
     - Pandas Cookbook [link](https://pandas.pydata.org/docs/user_guide/cookbook.html#cookbook)
 
-HW 1 Announcement: Due TBD
+<!--HW 1 Announcement: Due TBD-->
 
 Week 3: Social Media Network Analysis
 - Affordances of social media data for network analysis: mention, retweet, and hashtag
@@ -76,6 +76,8 @@ Week 4: Email Network Analysis
 - Readings: TBD
 - Useful sources: Harvard Dataverse, Zenodo, data.world (e.g., [Enron email dataset](https://data.world/brianray/enron-email-dataset))
 
+HW 1 Due: Essay
+
 Week 5: Text Reprint Network Analysis from news articles 
 - Affordances of text data for network analysis: co-occurrence of words
 - Discussion of transformation to a network structure of text data
@@ -97,7 +99,7 @@ Week 6: NetworkX library for network analysis (Connects back to Week 2)
 - Lab Practice: NetworkX library for calculating network measures
 - Readings: TBD
 
-HW 2 Due: TBD & GitHub Classroom (Regular Expression)
+HW 2 Due: Regular Expression
 
 Week 7: Social Media Network Analysis with NextworkX (Connects back to Week 3)
 - Transformation of social media data to a network structure in NetworkX
@@ -122,12 +124,15 @@ Week 10: Text Reprint Network Analysis with NextworkX (Connects back to Week 5)
 - Lab Practice: NetworkX library for calculating network measures of text data
 - Readings: TBD
 
-HW 3 Due: TBD & GitHub Classroom (NetworkX objects)
+HW 3 Due: NetworkX objects
 
 <!--Week 11: Network Visualization (Connects back to Week 2)-->
 <!--- Readings: TBD-->
 
-Week 11: Social Media Network Visualization (Connects back to Week 3)
+Week 11: Group Project Proposal
+- Group Project Proposal
+
+Week 12: Social Media Network Visualization (Connects back to Week 3)
 - Introduction to Matplotlib library
 - Visualization of a network structure in Matplotlib
 - Visualization of social media data in Matplotlib
@@ -135,33 +140,31 @@ Week 11: Social Media Network Visualization (Connects back to Week 3)
 - Lab Practice: Matplotlib library for visualizing social media data
 - Readings: TBD
 
-Week 12: Email Network Visualization (Connects back to Week 4)
+Week 13: Email Network Visualization (Connects back to Week 4)
 - Visualization of email data in Matplotlib
 - Lab Practice: Matplotlib library for visualizing email data
 - Readings: TBD
 
-Week 13: Text Reprint Network Visualization (Connects back to Week 5)
+<!--Week 14: Text Reprint Network Visualization (Connects back to Week 5)
 - Visualization of text data in Matplotlib
 - Lab Practice: Matplotlib library for visualizing text data
 - Readings: TBD
-
+-->
 HW 4 Due: TBD & GitHub Classroom (Network Visualization)
 
 Week 14: Final Group Help Session
-- Readings: TBD
 
-Week 15: Final Group Project Presentation
+Week 15: Final Group Project Presentation 
 - Final Project Presentation
-- Readings: TBD
 
 Week 16: Final Group Project Presentation
 - Final Project Presentation
-- Readings: TBD
 
 ## Course Requirements
 - Attendance and participation (20%)
 - Homework assignments (40%)
-- Final project (40%)
+- Group project proposal (10%)
+- Group project (30%)
 - Students peer review for final project (Earn extra credit)
 
 ## Grading
@@ -186,8 +189,7 @@ Week 16: Final Group Project Presentation
 
 - Homework 3: Create a networkX object from a given dataset (e.g., email data, social media data, and text data). In this assignment, students will be given a random type of dataset (e.g., email data, social media data, and text data) and will use regular expression to extract nodes and transform the dataset into pandas data frame. Then, students will use networkX library to create a networkX object. The networkX object should include (1) nodes, (2) edges, and (3) attributes for nodes and edges. Document the process of creating the networkX object in a Jupyter notebook. The Jupyter notebook should include (1) a brief description of the dataset, (2) a brief description of the process of creating the networkX object, and (3) a brief description of the networkX object. The assignment should be submitted as a Jupyter notebook file (.ipynb) and a html file (.html). 
 
-- Homework 4: TBD
-<!--- Homework 4: TBD-->
+- Homework 4: Visualize a network structure with a given dataset (e.g., email data, social media data, and text data). In this assignment, students will be given a random type of dataset (e.g., email data, social media data, and text data) and will use regular expression to extract nodes and transform the dataset into pandas data frame. Then, students will use networkX library to create a networkX object. Finally, students will use Matplotlib library to visualize the network structure. The visualization should include (1) nodes, (2) edges, and (3) attributes for nodes and edges. Document the process of visualizing the network structure in a Jupyter notebook. The Jupyter notebook should include (1) a brief description of the dataset, (2) a brief description of the process of visualizing the network structure, and (3) a brief description of the visualization. The assignment should be submitted as a Jupyter notebook file (.ipynb) and a html file (.html).
 
 ## Final Project
 - Final Project: TBD
