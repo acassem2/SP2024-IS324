@@ -73,7 +73,8 @@ Week 4: Email Network Analysis
 - Discussion of network measures of email data
 - Lab Practice: Email network analysis (sender, receiver, and cc)
 - Lab Practice: Transformation of email data to a network structure
-- Readings: TBD
+- Readings: 
+    - Park, J., Seo, J., & Lee, J. Y. (2023). Exploring an Online Community of Blind Programmers by Using Topic Modeling and Network Analysis. Proceedings of the Association for Information Science and Technology, 60(1), 1096-1098. [paper](https://asistdl-onlinelibrary-wiley-com.proxy2.library.illinois.edu/doi/full/10.1002/pra2.956)
 - Useful sources: Harvard Dataverse, Zenodo, data.world (e.g., [Enron email dataset](https://data.world/brianray/enron-email-dataset))
 
 HW 1 Due: Essay
@@ -114,7 +115,6 @@ Week 8: Email Network Analysis with NextworkX (Connects back to Week 4)
 - Lab Practice: NetworkX library for representing email data
 - Lab Practice: NetworkX library for calculating network measures of email data
 - Readings: 
-    -Park, J., Seo, J., & Lee, J. Y. (2023). Exploring an Online Community of Blind Programmers by Using Topic Modeling and Network Analysis. Proceedings of the Association for Information Science and Technology, 60(1), 1096-1098. [paper](https://asistdl-onlinelibrary-wiley-com.proxy2.library.illinois.edu/doi/full/10.1002/pra2.956)
 
 Week 9: Spring Break
 
