@@ -79,7 +79,7 @@ Week 4: Email Network Analysis
 
 HW 1 Due: Essay
 
-Week 5: Text Reprint Network Analysis from news articles 
+Week 5: Text Reprint Network Analysis  
 - Affordances of text data for network analysis: co-occurrence of words
 - Discussion of transformation to a network structure of text data
 - Discussion of bias in digitized text data
