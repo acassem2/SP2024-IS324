@@ -74,7 +74,7 @@ Week 4: Email Network Analysis
 - Lab Practice: Email network analysis (sender, receiver, and cc)
 - Lab Practice: Transformation of email data to a network structure
 - Readings: TBD
-- Useful sources: Harvard Dataverse, Zenodo
+- Useful sources: Harvard Dataverse, Zenodo, data.world (e.g., [Enron email dataset](https://data.world/brianray/enron-email-dataset))
 
 Week 5: Text Reprint Network Analysis from news articles 
 - Affordances of text data for network analysis: co-occurrence of words
