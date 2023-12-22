@@ -131,7 +131,7 @@ HW 3 Due: NetworkX objects
 <!--- Readings: TBD-->
 
 Week 11: Group Project Proposal
-- Group Project Proposal
+- Group Project Proposal (15 mins + 5 mins Q&A)
 
 Week 12: Social Media Network Visualization (Connects back to Week 3)
 - Introduction to Matplotlib library
@@ -156,10 +156,10 @@ HW 4 Due: TBD & GitHub Classroom (Network Visualization)
 Week 14: Final Group Help Session
 
 Week 15: Final Group Project Presentation 
-- Final Project Presentation
+- Final Project Presentation (25 mins + 5 mins Q&A)
 
 Week 16: Final Group Project Presentation
-- Final Project Presentation
+- Final Project Presentation (25 mins + 5 mins Q&A)
 
 ## Course Requirements
 - Attendance and participation (20%)
