@@ -1,7 +1,7 @@
 # SP2024-IS324 Social Network Analysis
 School of Information Sciences, University of Illinois at Urbana-Champaign \
 Jaihyun Park \
-Office Hours: Mondays 2:00-2:50pm (Tentative, Zoom) \
+Office Hours: Mondays 2:00-2:50pm (Tentative, Zoom) 
 
 This GitHub repository contains contents (Python scripts and data for the lab session) for Spring 2024 IS 324 Social Network Analysis. 
 
