@@ -1,7 +1,7 @@
 # SP2024-IS324 Social Network Analysis
 School of Information Sciences, University of Illinois at Urbana-Champaign \
 Jaihyun Park \
-Office Hours: TBD 
+Office Hours: Mondays 2:00-2:50pm (Tentative, Zoom) \
 
 This GitHub repository contains contents (Python scripts and data for the lab session) for Spring 2024 IS 324 Social Network Analysis. 
 
@@ -98,7 +98,7 @@ Week 6: NetworkX library for network analysis (Connects back to Week 2)
     - Community detection (e.g., Louvain method)
 - Lab Practice: NetworkX library for representing nodes, edges, and attributes
 - Lab Practice: NetworkX library for calculating network measures
-- Readings: TBD
+<!-- - Readings: TBD-->
 
 HW 2 Due: Regular Expression
 
@@ -107,14 +107,14 @@ Week 7: Social Media Network Analysis with NextworkX (Connects back to Week 3)
 - Calculation of network measures of social media data in NetworkX
 - Lab Practice: NetworkX library for representing social media data
 - Lab Practice: NetworkX library for calculating network measures of social media data
-- Readings: TBD
+<!-- - Readings: TBD-->
 
 Week 8: Email Network Analysis with NextworkX (Connects back to Week 4)
 - Transformation of email data to a network structure in NetworkX
 - Calculation of network measures of email data in NetworkX
 - Lab Practice: NetworkX library for representing email data
 - Lab Practice: NetworkX library for calculating network measures of email data
-- Readings: 
+<!-- - Readings: TBD -->
 
 Week 9: Spring Break
 
@@ -123,7 +123,7 @@ Week 10: Text Reprint Network Analysis with NextworkX (Connects back to Week 5)
 - Calculation of network measures of text data in NetworkX
 - Lab Practice: NetworkX library for representing text data
 - Lab Practice: NetworkX library for calculating network measures of text data
-- Readings: TBD
+<!-- - Readings: TBD -->
 
 HW 3 Due: NetworkX objects
 
@@ -139,12 +139,12 @@ Week 12: Social Media Network Visualization (Connects back to Week 3)
 - Visualization of social media data in Matplotlib
 - Lab Practice: Matplotlib library for visualizing a network structure
 - Lab Practice: Matplotlib library for visualizing social media data
-- Readings: TBD
+<!-- - Readings: TBD -->
 
 Week 13: Email Network Visualization (Connects back to Week 4)
 - Visualization of email data in Matplotlib
 - Lab Practice: Matplotlib library for visualizing email data
-- Readings: TBD
+<!-- - Readings: TBD -->
 
 <!--Week 14: Text Reprint Network Visualization (Connects back to Week 5)
 - Visualization of text data in Matplotlib
@@ -193,7 +193,7 @@ Week 16: Final Group Project Presentation
 - Homework 4: Visualize a network structure with a given dataset (e.g., email data, social media data, and text data). In this assignment, students will be given a random type of dataset (e.g., email data, social media data, and text data) and will use regular expression to extract nodes and transform the dataset into pandas data frame. Then, students will use networkX library to create a networkX object. Finally, students will use Matplotlib library to visualize the network structure. The visualization should include (1) nodes, (2) edges, and (3) attributes for nodes and edges. Document the process of visualizing the network structure in a Jupyter notebook. The Jupyter notebook should include (1) a brief description of the dataset, (2) a brief description of the process of visualizing the network structure, and (3) a brief description of the visualization. The assignment should be submitted as a Jupyter notebook file (.ipynb) and a html file (.html).
 
 ## Final Project
-- Final Project: TBD
+- Final Project: Students will work in groups of 2-3 to complete a final project. The final project should include (1) a brief description of the dataset, (2) a brief description of the process of extracting nodes and transforming the dataset into pandas data frame, (3) a brief description of the process of creating the networkX object, (4) a brief description of the process of visualizing the network structure, and (5) a brief description of the visualization. The final project should be submitted as a Jupyter notebook file (.ipynb) and a html file (.html). The final project presentation will also include what you have learned from the network analysis of the dataset. The final project presentation should be no longer than 25 minutes (20 minutes presentation + 5 minutes Q&A).
 
 
 
