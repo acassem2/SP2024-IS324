@@ -30,7 +30,7 @@ Week 1: Introduction
 Week 2: Anatomy of Network Analysis and Social Network Theories
 - Basic constituents of a network: nodes, edges, and attributes 
 - Types of networks: directed, undirected, weighted, and unweighted 
-- Network measures: degree, centrality, and betweenness 
+- Network measures: degree, betweenness, closeness, and eigenvector centrality 
 - Social network theories: homophily, cognitive dissonance, echo chamber
 - Discussion of transformation to a network structure of real-world scenarios 
 - Discussion of network measures of real-world scenarios 
